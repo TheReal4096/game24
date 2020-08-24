@@ -1,3 +1,7 @@
+# Game #24
+
+This game made just for fun. Play it [here](http://thereal4096.github.io/game24/)
+
 # 144
 
 A derivative of [2048](http://gabrielecirulli.github.io/2048/), which is a deriative of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), which is a derivative of [Threes](http://asherv.com/threes/).
